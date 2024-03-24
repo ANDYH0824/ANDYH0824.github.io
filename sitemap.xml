@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/manifest.json</loc>
+    <loc>https://andyh0824.github.io/posts/ea1f0973.html</loc>
     
     <lastmod>2024-03-24</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/posts/ea1f0973.html</loc>
+    <loc>https://andyh0824.github.io/manifest.json</loc>
     
     <lastmod>2024-03-24</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/posts/4a17b156.html</loc>
+    <loc>https://andyh0824.github.io/posts/4a17b156.html</loc>
     
     <lastmod>2024-03-24</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/img/siteicon/README.html</loc>
+    <loc>https://andyh0824.github.io/img/siteicon/README.html</loc>
     
     <lastmod>2024-03-24</lastmod>
     
@@ -39,7 +39,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://andyh0824.github.io/</loc>
     <lastmod>2024-03-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
