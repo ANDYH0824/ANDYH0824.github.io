@@ -37,6 +37,27 @@
   </entry>
   
   <entry>
+    <title>SpringCloud</title>
+    <link href="https://andyh0824.github.io/posts/96a41905.html"/>
+    <id>https://andyh0824.github.io/posts/96a41905.html</id>
+    <published>2024-03-25T11:50:10.000Z</published>
+    <updated>2024-04-21T06:02:35.125Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="认识微服务"><a href="#认识微服务" class="headerlink" title="认识微服务"></a>认识微服务</h1><ul><li>随着互联网行业的发展，对服务的要求也越来越高，服务架构也从单体架构逐渐演变为现在流行的微服务架构。那这些架构之间有怎样的区别呢？<h2 id="单体架构"><a href="#单体架构" class="headerlink" title="单体架构"></a>单体架构</h2></li><li>单体架构：将业务的所有功能集中在一个项目中开发，打成一个包部署<div class="img-wrap"><div class="img-bg"><img class="img" src="https://img2.imgtp.com/2024/04/21/l2p25T6K.png"/></div></div></li><li>单体架构优缺点如下<ul><li><span class='p red'>优点</span><ul><li>架构简单</li><li>部署成本低</li></ul></li></ul></li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;认识微服务&quot;&gt;&lt;a href=&quot;#认识微服务&quot; class=&quot;headerlink&quot; title=&quot;认识微服务&quot;&gt;&lt;/a&gt;认识微服务&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;随着互联网行业的发展，对服务的要求也越来越高，服务架构也从单体架构逐渐演变为现在流行的微服务架构。那这些</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>随心所欲</title>
     <link href="https://andyh0824.github.io/posts/5fd6e59a.html"/>
     <id>https://andyh0824.github.io/posts/5fd6e59a.html</id>
