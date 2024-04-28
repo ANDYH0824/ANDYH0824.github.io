@@ -1,0 +1,8 @@
+@font-face{
+    font-family: 'my';
+    font-display: swap;
+    src: url('../font/my.ttf') format("truetype");
+}
+body {
+    font-family: 'my';
+}
