@@ -1,7 +1,7 @@
 @font-face{
     font-family: 'my';
     font-display: swap;
-    src: url('../font/my.ttf') format("truetype");
+    src: url('../font/MaoKenWangXingYuan-2.ttf') format("truetype");
 }
 body {
     font-family: 'my';
