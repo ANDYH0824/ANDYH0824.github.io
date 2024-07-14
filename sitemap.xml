@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://andyh0824.github.io/posts/3dc1698d.html</loc>
+    
+    <lastmod>2024-07-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://andyh0824.github.io/posts/d4758cbd.html</loc>
+    
+    <lastmod>2024-07-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://andyh0824.github.io/posts/cdcc4eae.html</loc>
     
     <lastmod>2024-07-11</lastmod>
@@ -121,7 +139,7 @@
 
   <url>
     <loc>https://andyh0824.github.io/</loc>
-    <lastmod>2024-07-11</lastmod>
+    <lastmod>2024-07-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
